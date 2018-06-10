@@ -1,0 +1,21 @@
+<map id="task_scheduler::base_task&lt; TMemInterface &gt;" name="task_scheduler::base_task&lt; TMemInterface &gt;">
+<area shape="rect" id="node5" href="$structtask__scheduler_1_1base__sub__graph.html" title="Struct base_sub_graph " alt="" coords="199,235,361,291"/>
+<area shape="rect" id="node8" href="$classtask__scheduler_1_1lock__free__node__dispenser.html" title="task_scheduler::lock\l_free_node_dispenser\l\&lt; function_type *, TMemInterface \&gt;" alt="" coords="165,5,395,61"/>
+<area shape="rect" id="node9" href="$classtask__scheduler_1_1lock__free__queue.html" title="task_scheduler::lock\l_free_queue\&lt; TPolicy,\l T, TMemInterface, TParam \&gt;" alt="" coords="182,85,378,141"/>
+<area shape="rect" id="node10" href="$classtask__scheduler_1_1base__task__graph.html" title="Class base_task_graph. " alt="" coords="1335,453,1540,494"/>
+<area shape="rect" id="node13" href="$classtask__scheduler_1_1lock__free__queue.html" title="base_task_queue_type" alt="" coords="202,420,358,447"/>
+<area shape="rect" id="node17" href="$classtask__scheduler_1_1lock__free__node__dispenser.html" title="task_scheduler::lock\l_free_node_dispenser\l\&lt; T, TMemInterface \&gt;" alt="" coords="564,619,715,675"/>
+<area shape="rect" id="node18" href="$structtask__scheduler_1_1base__thread.html" title="Struct base_thread " alt="" coords="961,606,1139,647"/>
+<area shape="rect" id="node3" href="$classtask__scheduler_1_1base__task__events.html" title="task_scheduler::base\l_task_events" alt="" coords="1364,217,1511,258"/>
+<area shape="rect" id="node4" href="$structtask__scheduler_1_1base__task_1_1persistent__container.html" title="Struct persistent_container " alt="" coords="771,245,929,301"/>
+<area shape="rect" id="node6" href="$structtask__scheduler_1_1thread__unsafe__access__storage.html" title="Struct thread_unsafe_access_storage " alt="" coords="1354,334,1521,375"/>
+<area shape="rect" id="node7" href="$structtask__scheduler_1_1base__task_1_1transient__container.html" title="Struct transient_container " alt="" coords="562,20,717,76"/>
+<area shape="rect" id="node15" href="$classtask__scheduler_1_1base__thread__pool.html" title="Class base_thread_pool. " alt="" coords="1729,603,1937,645"/>
+<area shape="rect" id="node11" href="$structtask__scheduler_1_1base__task__graph_1_1transient__container.html" title="Struct transient_container " alt="" coords="953,365,1147,421"/>
+<area shape="rect" id="node12" href="$classtask__scheduler_1_1base__task__graph_1_1task__queue__type.html" title="task_scheduler::base\l_task_graph\&lt; TMemInterface\l \&gt;::task_queue_type" alt="" coords="543,416,736,472"/>
+<area shape="rect" id="node14" href="$structtask__scheduler_1_1base__task__graph_1_1persistent__container.html" title="Struct persistent_container " alt="" coords="953,445,1147,501"/>
+<area shape="rect" id="node16" href="$structtask__scheduler_1_1base__thread__pool_1_1setup__container.html" title="Struct setup_container " alt="" coords="1339,723,1535,779"/>
+<area shape="rect" id="node19" href="$classtask__scheduler_1_1base__thread__index.html" title="task_scheduler::base\l_thread_index\&lt; TMemInterface \&gt;" alt="" coords="532,553,747,594"/>
+<area shape="rect" id="node20" href="$structtask__scheduler_1_1base__task__graph_1_1debug__container.html" title="Struct debug_container " alt="" coords="953,525,1147,581"/>
+<area shape="rect" id="node21" href="$structtask__scheduler_1_1base__task_1_1debug__container.html" title="Struct debug_container " alt="" coords="1360,85,1515,141"/>
+</map>

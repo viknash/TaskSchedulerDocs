@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$structtask__scheduler_1_1atomic__lock__free__node__ptr.html" title="task_scheduler::atomic\l_lock_free_node_ptr\&lt; enum\l type, profile_mem_interface \&gt;" alt="" coords="204,5,403,61"/>
+<area shape="rect" id="node3" href="$classtask__scheduler_1_1lock__free__node__dispenser.html" title="task_scheduler::lock\l_free_node_dispenser\l\&lt; enum type, profile_mem\l_interface \&gt;" alt="" coords="216,86,391,157"/>
+<area shape="rect" id="node4" href="$classtask__scheduler_1_1lock__free__node__stack.html" title="task_scheduler::lock\l_free_node_stack\&lt; enum\l type, profile_mem_interface \&gt;" alt="" coords="204,181,403,237"/>
+</map>

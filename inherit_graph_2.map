@@ -1,0 +1,27 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classtask__scheduler_1_1base__task__events.html" title="task_scheduler::base\l_task_events" alt="" coords="5,49,152,90"/>
+<area shape="rect" id="node2" href="$classtask__scheduler_1_1base__task.html" title="Class base_task. " alt="" coords="240,49,407,90"/>
+<area shape="rect" id="node3" href="$classtask__scheduler_1_1base__data__task.html" title="task_scheduler::base\l_data_task\&lt; TMemInterface,\l TDataType \&gt;" alt="" coords="505,5,696,61"/>
+<area shape="rect" id="node4" href="$classtask__scheduler_1_1base__worker__task.html" title="task_scheduler::base\l_worker_task\&lt; TMemInterface \&gt;" alt="" coords="495,86,707,127"/>
+<area shape="rect" id="node6" href="$structtask__scheduler_1_1atomic__lock__free__node__ptr.html" title="task_scheduler::atomic\l_lock_free_node_ptr\&lt; function\l_type *, TMemInterface \&gt;" alt="" coords="225,115,422,171"/>
+<area shape="rect" id="node7" href="$structtask__scheduler_1_1atomic__lock__free__node__ptr.html" title="task_scheduler::atomic\l_lock_free_node_ptr\&lt; task\l_type *, TMemInterface \&gt;" alt="" coords="235,195,411,251"/>
+<area shape="rect" id="node8" href="$classtask__scheduler_1_1guarded.html" title="task_scheduler::guarded\l\&lt; TDataType, TMemInterface \&gt;" alt="" coords="220,275,427,317"/>
+<area shape="rect" id="node9" href="$classtask__scheduler_1_1lock__free__node__dispenser.html" title="task_scheduler::lock\l_free_node_dispenser\l\&lt; function_type *, TMemInterface \&gt;" alt="" coords="209,341,438,397"/>
+<area shape="rect" id="node10" href="$classtask__scheduler_1_1lock__free__node__dispenser.html" title="task_scheduler::lock\l_free_node_dispenser\l\&lt; task_type *, TMemInterface \&gt;" alt="" coords="219,421,427,477"/>
+<area shape="rect" id="node11" href="$classtask__scheduler_1_1lock__free__node__stack.html" title="task_scheduler::lock\l_free_node_stack\&lt; function\l_type *, TMemInterface \&gt;" alt="" coords="232,501,415,557"/>
+<area shape="rect" id="node12" href="$classtask__scheduler_1_1lock__free__node__stack.html" title="task_scheduler::lock\l_free_node_stack\&lt; task\l_type *, TMemInterface \&gt;" alt="" coords="238,581,409,637"/>
+<area shape="rect" id="node13" href="$structtask__scheduler_1_1atomic__lock__free__node.html" title="task_scheduler::atomic\l_lock_free_node\&lt; T, TMemInterface \&gt;" alt="" coords="201,662,446,703"/>
+<area shape="rect" id="node14" href="$structtask__scheduler_1_1atomic__lock__free__node__ptr.html" title="task_scheduler::atomic\l_lock_free_node_ptr\&lt; T,\l TMemInterface \&gt;" alt="" coords="242,728,405,784"/>
+<area shape="rect" id="node15" href="$structtask__scheduler_1_1base__sub__graph.html" title="Struct base_sub_graph " alt="" coords="242,808,405,864"/>
+<area shape="rect" id="node16" href="$classtask__scheduler_1_1base__task__graph.html" title="Class base_task_graph. " alt="" coords="221,889,426,930"/>
+<area shape="rect" id="node17" href="$classtask__scheduler_1_1base__task__graph__helper.html" title="task_scheduler::base\l_task_graph_helper\&lt; TMemInterface \&gt;" alt="" coords="200,954,447,995"/>
+<area shape="rect" id="node18" href="$structtask__scheduler_1_1base__thread.html" title="Struct base_thread " alt="" coords="235,1019,412,1061"/>
+<area shape="rect" id="node19" href="$classtask__scheduler_1_1guarded__write__array.html" title="task_scheduler::guarded\l_write_array\&lt; T, TMemInterface \&gt;" alt="" coords="213,1085,434,1126"/>
+<area shape="rect" id="node20" href="$classtask__scheduler_1_1lock__free__batch__dispatcher.html" title="Class lock_free_batch_dispatcher. " alt="" coords="212,1151,435,1207"/>
+<area shape="rect" id="node21" href="$structtask__scheduler_1_1lock__free__node.html" title="task_scheduler::lock\l_free_node\&lt; T, TMemInterface \&gt;" alt="" coords="216,1231,431,1273"/>
+<area shape="rect" id="node22" href="$classtask__scheduler_1_1lock__free__node__dispenser.html" title="task_scheduler::lock\l_free_node_dispenser\l\&lt; T, TMemInterface \&gt;" alt="" coords="248,1297,399,1353"/>
+<area shape="rect" id="node23" href="$classtask__scheduler_1_1lock__free__node__stack.html" title="task_scheduler::lock\l_free_node_stack\&lt; T,\l TMemInterface \&gt;" alt="" coords="249,1377,398,1433"/>
+<area shape="rect" id="node24" href="$classtask__scheduler_1_1lock__free__queue.html" title="task_scheduler::lock\l_free_queue\&lt; TPolicy,\l T, TMemInterface, TParam \&gt;" alt="" coords="225,1457,421,1513"/>
+<area shape="rect" id="node26" href="$classtask__scheduler_1_1stl__allocator.html" title="task_scheduler::stl\l_allocator\&lt; T, TMemInterface \&gt;" alt="" coords="220,1538,427,1579"/>
+<area shape="rect" id="node25" href="$classtask__scheduler_1_1base__task__graph_1_1task__queue__type.html" title="task_scheduler::base\l_task_graph\&lt; TMemInterface\l \&gt;::task_queue_type" alt="" coords="504,1457,697,1513"/>
+</map>

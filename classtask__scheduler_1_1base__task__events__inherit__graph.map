@@ -1,0 +1,5 @@
+<map id="task_scheduler::base_task_events" name="task_scheduler::base_task_events">
+<area shape="rect" id="node2" href="$classtask__scheduler_1_1base__task.html" title="Class base_task. " alt="" coords="200,39,367,80"/>
+<area shape="rect" id="node3" href="$classtask__scheduler_1_1base__data__task.html" title="task_scheduler::base\l_data_task\&lt; TMemInterface \&gt;" alt="" coords="421,5,620,47"/>
+<area shape="rect" id="node4" href="$classtask__scheduler_1_1base__worker__task.html" title="task_scheduler::base\l_worker_task\&lt; TMemInterface \&gt;" alt="" coords="415,71,627,112"/>
+</map>

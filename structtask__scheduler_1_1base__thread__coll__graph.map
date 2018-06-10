@@ -1,0 +1,6 @@
+<map id="task_scheduler::base_thread&lt; TMemInterface &gt;" name="task_scheduler::base_thread&lt; TMemInterface &gt;">
+<area shape="rect" id="node5" href="$classtask__scheduler_1_1lock__free__queue.html" title="base_task_queue_type" alt="" coords="165,55,321,82"/>
+<area shape="rect" id="node6" href="$classtask__scheduler_1_1lock__free__node__dispenser.html" title="task_scheduler::lock\l_free_node_dispenser\l\&lt; T, TMemInterface \&gt;" alt="" coords="345,103,496,159"/>
+<area shape="rect" id="node3" href="$classtask__scheduler_1_1base__thread__index.html" title="task_scheduler::base\l_thread_index\&lt; TMemInterface \&gt;" alt="" coords="520,184,735,225"/>
+<area shape="rect" id="node4" href="$classtask__scheduler_1_1base__task__graph_1_1task__queue__type.html" title="task_scheduler::base\l_task_graph\&lt; TMemInterface\l \&gt;::task_queue_type" alt="" coords="531,40,724,96"/>
+</map>
